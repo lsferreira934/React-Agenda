@@ -1,6 +1,6 @@
 # React Agenda
 
-## why?
+## Why?
 
 Project developed for application of techniques using reactJs class components.
 
@@ -8,7 +8,7 @@ Project developed for application of techniques using reactJs class components.
 
 ![Gravar_2020_08_17_13_28_24_786](https://user-images.githubusercontent.com/56802012/90427724-50e4a000-e099-11ea-8897-017a0bc8299a.gif)
 
-## Technologies used
+## Technologies Used
 
 ReacJS
 Materialize (For front-end development, icons, table and other things)
