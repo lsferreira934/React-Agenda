@@ -1,0 +1,33 @@
+.title {
+  font-weight: bolder;
+  border: black 2px solid;
+  border-radius: 20px;
+  background-color: rgba(89, 218, 117, 0.226);
+  padding: 20px;
+}
+
+.searchInputs {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: rgba(255, 255, 255, 0.424);
+  margin-bottom: 10px;
+}
+
+.td {
+  font-size: 15pt;
+  font-weight: bold;
+}
+
+.th {
+  font-size: 20pt;
+  font-weight: bolder;
+}
+
+.full {
+  height: 400px;
+}
+
+.h2 {
+  margin-top: 270px;
+}
