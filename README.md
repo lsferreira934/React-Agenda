@@ -1,8 +1,18 @@
 # React Agenda
-## why?
-Projeto desenvolvido para aplicação de tecnicas utilizando reactJs class componentes
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## why?
+
+Project developed for application of techniques using reactJs class components.
+
+## Demostration
+
+![Gravar_2020_08_17_13_28_24_786](https://user-images.githubusercontent.com/56802012/90427724-50e4a000-e099-11ea-8897-017a0bc8299a.gif)
+
+## Technologies used
+
+ReacJS
+Materialize (For front-end development, icons, table and other things)
+Css
 
 ## Available Scripts
 
