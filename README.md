@@ -1,3 +1,7 @@
+# React Agenda
+## why?
+Projeto desenvolvido para aplicação de tecnicas utilizando reactJs class componentes
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
